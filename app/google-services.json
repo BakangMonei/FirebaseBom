@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831672699391",
+    "project_id": "bommer-b7e50",
+    "storage_bucket": "bommer-b7e50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831672699391:android:1887f609834694f40e7fca",
+        "android_client_info": {
+          "package_name": "com.firebasebommer.firebasebom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831672699391-jkd6rb38n4elqk0t8prsu5va00shfbsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZZJuxR-MDkL11vixdYgvJSqWh75TafM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831672699391-jkd6rb38n4elqk0t8prsu5va00shfbsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
